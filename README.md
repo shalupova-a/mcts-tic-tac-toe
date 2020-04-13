@@ -1,5 +1,7 @@
 # mcts-tic-tac-toe
-https://github.com/hayoung-kim/mcts-tic-tac-toe
+Attempting to improve selection step of MCTS algorithm by implementing sufficieny threshold and moving average return function methods (source: http://www.ru.is/~yngvi/pdf/GudmundssonB11.pdf)
+
+Code forked from: https://github.com/hayoung-kim/mcts-tic-tac-toe
 
 solve tic tac toe (3x3) problem using vanila `mcts`. It was made for the purpose of studying the concept of mcts. 
 
